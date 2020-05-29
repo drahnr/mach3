@@ -1,0 +1,11 @@
+[package]
+name = "mach3"
+version = "0.0.0"
+authors = ["Bernhard Schuster <bernhard@ahoi.io>"]
+edition = "2018"
+license = "Apache-2.0"
+repository = "https://github.com/drahnr/mach3.git"
+description = "Distributed something something"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
